@@ -42,3 +42,32 @@ $navbar-default-bg: #073B15;
   color: #fff;
   text-decoration: none;
 }
+
+.bs-docs-footer {
+  background-color: #073B15;
+  color: #fff;
+
+}
+
+.bs-docs-footer-links ul {
+  display: block;
+  clear: both;
+}
+
+.bs-docs-footer-links li {
+  list-style: none;
+  color: #fff;
+  display: inline-block;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.bs-docs-footer-links a {
+  color: #fff;
+}
+
+.footer-p {
+  float: right;
+  padding-top: 5px;
+}
